@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Care n Cure">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#a9bca4"/>
+      <stop offset="100%" stop-color="#19382d"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#f8f6f0"/>
+  <circle cx="64" cy="64" r="42" fill="url(#g)" opacity="0.14"/>
+  <path d="M64 20c12 0 22 10 22 22 0 9-5 17-12 22l-10 8-10-8c-7-5-12-13-12-22 0-12 10-22 22-22zm0 12c-5.5 0-10 4.5-10 10 0 5 4 9 10 9s10-4 10-9c0-5.5-4.5-10-10-10zm-28 38h56v12H36V70zm14 22h28v12H50V92z" fill="#19382d"/>
+  <path d="M72 46c8 2 14 9 14 17 0 8-5 15-12 18l-7 3-7-3c-7-3-12-10-12-18 0-8 6-15 14-17l5-1 5 1z" fill="#c8aa68" opacity="0.8"/>
+</svg>
