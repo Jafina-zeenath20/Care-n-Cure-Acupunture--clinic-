@@ -412,7 +412,11 @@ document.addEventListener("DOMContentLoaded", () => {
     acupuncture: { title: "Acupuncture", description: "Traditional acupuncture offered as part of a personalized wellness approach.", expect: "A qualified practitioner can discuss your individual needs and explain whether acupuncture is appropriate for you." },
     cupping: { title: "Cupping Therapy", description: "Cupping therapy is a traditional complementary wellness practice offered at Care n Cure.", expect: "Your practitioner can explain the process, expected experience and whether it is appropriate for you." },
     herbal: { title: "Herbal Wellness", description: "Herbal wellness support can complement an individualized wellness plan.", expect: "Discuss your needs and any existing medications or health considerations with a qualified practitioner before using herbal products." },
-    wellness: { title: "Wellness Coaching", description: "Lifestyle and nutrition guidance designed to support a broader wellness journey.", expect: "The consultation focuses on your lifestyle and wellness goals and may include practical guidance." }
+    wellness: { title: "Wellness Coaching", description: "Lifestyle and nutrition guidance designed to support a broader wellness journey.", expect: "The consultation focuses on your lifestyle and wellness goals and may include practical guidance." },
+    "facial-cupping": { title: "Facial Cupping", description: "A gentle complementary facial wellness practice offered around your comfort and goals.", expect: "Your practitioner can explain the technique, expected experience and whether it is appropriate for you." },
+    acupressure: { title: "Acupressure", description: "Non-invasive pressure-point support offered as part of an individualized wellness conversation.", expect: "Your practitioner can discuss your goals, comfort and any health considerations before care." },
+    hijama: { title: "Hijama", description: "Wet cupping therapy discussed with attention to suitability, hygiene, comfort and aftercare.", expect: "Ask about the process, hygiene, aftercare and whether Hijama is appropriate for your health history." },
+    reflexology: { title: "Reflexology", description: "A foot-focused complementary wellness practice tailored to your comfort.", expect: "Your practitioner can explain the session and discuss whether reflexology fits your wellness goals." }
   };
 
   const modal = document.getElementById("treatmentModal");

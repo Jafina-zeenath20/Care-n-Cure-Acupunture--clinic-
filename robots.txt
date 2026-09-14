@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://carencureacupunctureclinic.in/sitemap.xml
+
+# Plain-language site summary for AI and search systems
+LLMs: https://carencureacupunctureclinic.in/llms.txt
